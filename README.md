@@ -2,7 +2,7 @@
 # Overview
 This project explores the **Birthday Paradox**, a famous problem in probability theory and algorithm design. It focuses on answering the question of how many people need to be in a room for there to be a 50% chance that at least two of them share the same birthday.
 
-In this project, we delve into both the theoretical aspects of the problem and provide a practical implementation using a C-based program to calculate the required number of people. The goal is to develop an algorithm that solves this problem and scientifically evaluate its effectiveness. The project is part of the GRA course.
+In this project, we delve into both the theoretical aspects of the problem and provide a practical implementation using a C-based program to calculate the required number of people. The goal is to develop an algorithm that solves this problem and scientifically evaluate its effectiveness. The project is part of the GRA course (3. Semester 2022/2023).
 
 # Functionality
 The Birthday Paradox addresses the surprising fact that in a group of just 23 people, there is a 50% chance that at least two people share the same birthday. Intuitively, most people would expect a higher number, but the actual calculation shows otherwise.
